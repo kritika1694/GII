@@ -33,6 +33,12 @@ Summary of data analysis procedure:
  - Data analysis and Visualizations in PowerBI: Changed column names; Two additional columns created: Education gap and LFPR Gap; DAX formulas for: average GII,
                                                 average LFPR_F, average MMR and Gender Parity in Education; Creation of an interactive dashboard.
 
+Dashboard of GII on PowerBI (Kindly review the file on PowerBI tosee dashboard interactions- https://github.com/kritika1694/GII/blob/main/GII%20PowerBI.pbix):
+
+![2](https://github.com/user-attachments/assets/ec96630e-350b-4a87-806e-71a52f348e12)
+
+
+
 Insights from the project:
 
  1. The average GII is 0.32, indicating moderate inequality in the countries represented. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
