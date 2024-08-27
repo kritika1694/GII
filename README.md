@@ -60,4 +60,4 @@ Insights from the project:
 
 Implications of this project: 
 
-The information of gender inequality among nations and its drivers give a comprehensive picture and has policy implications for both State and private organisations.
+Gender inequality data analysis along with its drivers across nations gives a comprehensive picture of gender equity status and carry potential policy implications for both State and private organisations.
