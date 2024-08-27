@@ -33,7 +33,7 @@ Summary of data analysis procedure:
  - Data analysis and Visualizations in PowerBI: Changed column names; Two additional columns created: Education gap and LFPR Gap; DAX formulas for: average GII,
                                                 average LFPR_F, average MMR and Gender Parity in Education; Creation of an interactive dashboard.
 
-Dashboard of GII on PowerBI (Kindly review the file on PowerBI tosee dashboard interactions- https://github.com/kritika1694/GII/blob/main/GII%20PowerBI.pbix):
+Dashboard of GII on PowerBI (Kindly review the file on PowerBI to see dashboard interactions- https://github.com/kritika1694/GII/blob/main/GII%20PowerBI.pbix):
 
 ![2](https://github.com/user-attachments/assets/ec96630e-350b-4a87-806e-71a52f348e12)
 
@@ -41,20 +41,20 @@ Dashboard of GII on PowerBI (Kindly review the file on PowerBI tosee dashboard i
 
 Insights from the project:
 
- 1. The average GII is 0.32, indicating moderate inequality in the countries represented. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
+ - The average GII is 0.32, indicating moderate inequality in the countries represented. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
 
- 2.  Western European countries have a lower GII, hence less inequality. Whereas the African-Sahel region countries shows greater inequality with high GII.
+ - Western European countries have a lower GII, hence less inequality. Whereas the African-Sahel region countries shows greater inequality with high GII.
 
- 3. Percentage of Female representation in Parliament increases with level of development and the LFPR gap decreases with increasing development level. Interestingly the Middle human development countries lag 
-    behind the Low human development countries in the se parameters
+ - Percentage of Female representation in Parliament increases with level of development and the LFPR gap decreases with increasing development level. Interestingly the Middle human development countries lag 
+   behind the Low human development countries in the se parameters
 
- 4. Average LFPR (51.57%): The average labor force participation rate for females is 51.57%, showing that just over half of women are active in the labor market,
+ - Average LFPR (51.57%): The average labor force participation rate for females is 51.57%, showing that just over half of women are active in the labor market,
 
- 5. The gender parity index for education is 0.91, suggesting that on average, there are fewer females than males attaining secondary education. Which requires tailored policy making.
+ - The gender parity index for education is 0.91, suggesting that on average, there are fewer females than males attaining secondary education. Which requires tailored policy making.
 
- 6. Also country wise comparison of the secondary education level can be seen. Western European countries faring well in both male and female education level. This shows similar results as GII trends
+ - Also country wise comparison of the secondary education level can be seen. Western European countries faring well in both male and female education level. This shows similar results as GII trends
 
- 7. Maternal health through MMR and ABR shows: Higher values in these indicators usually correlate with higher GII, reflecting poorer outcomes for women's health in countries with greater gender inequality.
+ - Maternal health through MMR and ABR shows: Higher values in these indicators usually correlate with higher GII, reflecting poorer outcomes for women's health in countries with greater gender inequality.
 
 Implications of this project: 
 
