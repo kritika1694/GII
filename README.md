@@ -1,5 +1,7 @@
 Gender Inequality Index Data cleaning and analysis with SQL and visualisation in PowerBI.
 
+Skills : SQL | PowerBI
+
 The project is about: 
 
 Data cleaning in MySQL of Gender Inequality Index across different countries, and designing comprehensive dashboard in Power BI to visualize the various factors interplay with respective Gender inequality index across nations.
