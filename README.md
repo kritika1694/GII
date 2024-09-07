@@ -4,28 +4,13 @@ Skills : SQL | PowerBI
 
 The project is about: 
 
-Data cleaning in MySQL of Gender Inequality Index across different countries, and designing comprehensive dashboard in Power BI to visualize the various factors interplay with respective Gender inequality index across nations.
-
-What is GII?
-
-GII is a composite metric of gender inequality using three dimensions: reproductive health, empowerment and the labour market. It is a particularly important determinant of mothers physical and mental health, and their autonomy and control over household resources. Low status restricts women's capacity to act in their own and their children's best interests, and even society at large. 
-                                                 ![1](https://github.com/user-attachments/assets/a2db42b4-8109-4e65-a384-66ad0b00e48c)
+Data cleaning in MySQL of Gender Inequality Index across different countries, and designing comprehensive dashboard in Power BI to visualize the various factors interplay with respective Gender inequality index across nations. GII is a composite metric of gender inequality using three dimensions: reproductive health, empowerment and the labour market, given by UNDP. A low GII value indicates low inequality between women and men.
 
 
  Dataset  (https://data.humdata.org/dataset/gender-inequality-index)
   
  Dataset contains:
- 
-  - Country: Name of the country
-  - GII : Gender Inequality index of each country. A low GII value indicates low inequality between women and men
-  - GII Rank: Gender Inequality ranking of various countries as given by UNDP.
-  - Maternal_mortality_ratio: Maternal_mortality_ratio (deaths per100,000 live births) 2013 
-  - Adolescent birth rate : Adolescent birth rate (births per 1,000 women ages 15 to 19) 2010/2015
-  - parliament_seat_F: Percentage of women Parliamentarians
-  - F_secondary_educ: Population with at least some secondary education (% ages 25 and older) Female 2005-2014
-  - M_secondary_educ: Population with at least some secondary education (% ages 25 and older) Male 2005-2014
-  - LFPR_M : Labour Force Participation Rate for Males
-  - LFPR_F : Labour Force Participation Rate for Females
+   Country, GII, GII Rank, Maternal_mortality_ratio, Adolescent birth rate, parliament_seat_F, F_secondary_educ, M_secondary_educ, LFPR_M, LFPR_F 
 
 Summary of data analysis procedure:
 
