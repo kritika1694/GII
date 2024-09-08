@@ -24,18 +24,12 @@ Summary of data analysis procedure:
 Insights from the project:
 
  - The average GII is 0.32, indicating moderate inequality. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
-
  - Western European countries have a lower GII, hence less inequality. Whereas the African-Sahel region countries shows greater inequality with high GII.
-
  - Percentage of Female representation in Parliament increases with level of development and the LFPR gap decreases with increasing development level. Interestingly the Middle human development countries lag 
-   behind the Low human development countries in the se parameters
-
+   behind the Low human development countries in these parameters
  - Average LFPR (51.57%): The average labor force participation rate for females is 51.57%, showing that just over half of women are active in the labor market,
-
  - The gender parity index for education is 0.91, suggesting that on average, there are fewer females than males attaining secondary education. Which requires tailored policy making.
-
  - Also country wise comparison of the secondary education level can be seen. Western European countries faring well in both male and female education level. This shows similar results as GII trends
-
  - Maternal health through MMR and ABR shows: Higher values in these indicators usually correlate with higher GII, reflecting poorer outcomes for women's health in countries with greater gender inequality.
 
 Implications of this project: 
