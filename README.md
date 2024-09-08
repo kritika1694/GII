@@ -6,11 +6,12 @@ The project is about:
 
 Data cleaning in MySQL of Gender Inequality Index across different countries, and designing comprehensive dashboard in Power BI to visualize the various factors interplay with respective Gender inequality index across nations. GII is a composite metric of gender inequality using three dimensions: reproductive health, empowerment and the labour market, given by UNDP. A low GII value indicates low inequality between women and men.
 
-
- Dataset  (https://data.humdata.org/dataset/gender-inequality-index)
-  
- Dataset contains:
+Dataset (https://data.humdata.org/dataset/gender-inequality-index) contains :
    Country, GII, GII Rank, Maternal_mortality_ratio, Adolescent birth rate, parliament_seat_F, F_secondary_educ, M_secondary_educ, LFPR_M, LFPR_F 
+
+Dashboard of GII on PowerBI (Kindly review the file on PowerBI to see dashboard interactions- https://github.com/kritika1694/GII/blob/main/GII%20PowerBI.pbix):
+
+![2](https://github.com/user-attachments/assets/ec96630e-350b-4a87-806e-71a52f348e12)
 
 Summary of data analysis procedure:
 
@@ -20,15 +21,9 @@ Summary of data analysis procedure:
  - Data analysis and Visualizations in PowerBI: Changed column names; Two additional columns created: Education gap and LFPR Gap; DAX formulas for: average GII,
                                                 average LFPR_F, average MMR and Gender Parity in Education; Creation of an interactive dashboard.
 
-Dashboard of GII on PowerBI (Kindly review the file on PowerBI to see dashboard interactions- https://github.com/kritika1694/GII/blob/main/GII%20PowerBI.pbix):
-
-![2](https://github.com/user-attachments/assets/ec96630e-350b-4a87-806e-71a52f348e12)
-
-
-
 Insights from the project:
 
- - The average GII is 0.32, indicating moderate inequality in the countries represented. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
+ - The average GII is 0.32, indicating moderate inequality. In the line graph GII closer to 0 suggests less inequality, while a value closer to 1 indicates more inequality.
 
  - Western European countries have a lower GII, hence less inequality. Whereas the African-Sahel region countries shows greater inequality with high GII.
 
